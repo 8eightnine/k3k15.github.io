@@ -1,2 +1,3 @@
-# Personal site
-Currently under development: [k3k14.me](https://k3k14.me "k3k14.me")
+# Сайт-визитка
+Пока-что немного пустоват, будем работать над этим =)
+[k3k14.me](https://k3k14.me "k3k14.me")
